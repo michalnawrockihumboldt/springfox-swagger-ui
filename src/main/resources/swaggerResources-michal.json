@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dealer Generic Backend Localhost",
+    "url": "http://192.168.78.42:8080/v2/api-docs",
+    "swaggerVersion": "2.0"
+  },
+  {
+    "name": "Dealer Generic Backend Stage",
+    "url": "http://humdev.astonbarclay.net:8080/v2/api-docs",
+    "swaggerVersion": "2.0"
+  }
+]
